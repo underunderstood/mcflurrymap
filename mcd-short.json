@@ -1,0 +1,262 @@
+{
+  "StoreList": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "rec00I3PmQo8v3tqF",
+        "properties": {
+          "lat": 39.935958,
+          "lon": -91.394709,
+          "State": "IL",
+          "Address": "1301 Broadway",
+          "zip": "62301-2813",
+          "phone": "(217)223-0002",
+          "driveThru": true,
+          "archCard": true,
+          "freeWifi": true,
+          "storeType": "FREESTANDING",
+          "storeUrl": "http://www.mcillinois.com/7639",
+          "City": "Quincy",
+          "Store Number": 7639,
+          "Store": "1301 Broadway, Quincy, IL (Store #7639)",
+          "mcflurry-mixed": 0,
+          "mcflurry-notmixed": 0,
+          "Full Address": "1301 Broadway, Quincy, IL, 62301-2813",
+          "Mix Percentage": {
+            "specialValue": "NaN"
+          },
+          "Mix Decimal": {
+            "specialValue": "NaN"
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -91.394709,
+            39.935958
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "rec00JyvlvkljYmfj",
+        "properties": {
+          "lat": 40.634363,
+          "lon": -80.317707,
+          "State": "PA",
+          "Address": "131 Pleasant Dr",
+          "zip": "15001",
+          "phone": "(724)378-0622",
+          "driveThru": true,
+          "archCard": true,
+          "freeWifi": true,
+          "storeType": "FREESTANDING",
+          "storeUrl": "http://www.mcpennsylvania.com/5972",
+          "City": "Aliquippa",
+          "Store Number": 5972,
+          "Store": "131 Pleasant Dr, Aliquippa, PA (Store #5972)",
+          "mcflurry-mixed": 0,
+          "mcflurry-notmixed": 0,
+          "Full Address": "131 Pleasant Dr, Aliquippa, PA, 15001",
+          "Mix Percentage": {
+            "specialValue": "NaN"
+          },
+          "Mix Decimal": {
+            "specialValue": "NaN"
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -80.317707,
+            40.634363
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "rec00YLbGhpdOT1zK",
+        "properties": {
+          "lat": 32.94451,
+          "lon": -103.349298,
+          "State": "NM",
+          "Address": "410 S Main",
+          "zip": "88260",
+          "phone": "(575)396-7272",
+          "playplace": true,
+          "driveThru": true,
+          "archCard": true,
+          "freeWifi": true,
+          "storeType": "FREESTANDING",
+          "storeUrl": "http://www.mcnewmexico.com/13262",
+          "City": "Lovington",
+          "Store Number": 13262,
+          "Store": "410 S Main, Lovington, NM (Store #13262)",
+          "mcflurry-mixed": 0,
+          "mcflurry-notmixed": 0,
+          "Full Address": "410 S Main, Lovington, NM, 88260",
+          "Mix Percentage": {
+            "specialValue": "NaN"
+          },
+          "Mix Decimal": {
+            "specialValue": "NaN"
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -103.349298,
+            32.94451
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "rec00Yafz6JKuUuRw",
+        "properties": {
+          "lat": 30.260309,
+          "lon": -97.758118,
+          "State": "TX",
+          "Address": "1209 Barton Springs",
+          "zip": "78704-1007",
+          "phone": "(512)442-0412",
+          "driveThru": true,
+          "archCard": true,
+          "freeWifi": true,
+          "storeType": "FREESTANDING",
+          "storeUrl": "http://www.mctexas.com/4941",
+          "City": "Austin",
+          "Store Number": 4941,
+          "Store": "1209 Barton Springs, Austin, TX (Store #4941)",
+          "mcflurry-mixed": 0,
+          "mcflurry-notmixed": 0,
+          "Full Address": "1209 Barton Springs, Austin, TX, 78704-1007",
+          "Mix Percentage": {
+            "specialValue": "NaN"
+          },
+          "Mix Decimal": {
+            "specialValue": "NaN"
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.758118,
+            30.260309
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "rec00g0JcX0sjnnC3",
+        "properties": {
+          "lat": 40.102193,
+          "lon": -75.029522,
+          "State": "PA",
+          "Address": "9970 Bustleton Ave",
+          "zip": "19115",
+          "phone": "(215)677-9439",
+          "playplace": true,
+          "driveThru": true,
+          "archCard": true,
+          "freeWifi": true,
+          "storeType": "FREESTANDING",
+          "storeUrl": "http://www.mcpennsylvania.com/583",
+          "City": "Philadelphia",
+          "Store Number": 583,
+          "Store": "9970 Bustleton Ave, Philadelphia, PA (Store #583)",
+          "mcflurry-mixed": 0,
+          "mcflurry-notmixed": 0,
+          "Full Address": "9970 Bustleton Ave, Philadelphia, PA, 19115",
+          "Mix Percentage": {
+            "specialValue": "NaN"
+          },
+          "Mix Decimal": {
+            "specialValue": "NaN"
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.029522,
+            40.102193
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "rec00kM1zTXX3cPQB",
+        "properties": {
+          "lat": 33.74548,
+          "lon": -118.105118,
+          "State": "CA",
+          "Address": "630 Pacific Coast Highway",
+          "zip": "90740-5906",
+          "phone": "(562)594-4801",
+          "driveThru": true,
+          "archCard": true,
+          "freeWifi": true,
+          "storeType": "FREESTANDING",
+          "storeUrl": "http://www.mccalifornia.com/5338",
+          "City": "Seal Beach",
+          "Store Number": 5338,
+          "Store": "630 Pacific Coast Highway, Seal Beach, CA (Store #5338)",
+          "mcflurry-mixed": 0,
+          "mcflurry-notmixed": 0,
+          "Full Address": "630 Pacific Coast Highway, Seal Beach, CA, 90740-5906",
+          "Mix Percentage": {
+            "specialValue": "NaN"
+          },
+          "Mix Decimal": {
+            "specialValue": "NaN"
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.105118,
+            33.74548
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "reczzlzsgOXea46bB",
+        "properties": {
+          "lat": 40.453951,
+          "lon": -109.546505,
+          "State": "UT",
+          "Address": "1050 W Hwy 40",
+          "zip": "84079",
+          "phone": "(435)789-4007",
+          "playplace": true,
+          "driveThru": true,
+          "archCard": true,
+          "freeWifi": true,
+          "storeType": "FREESTANDING",
+          "storeUrl": "http://www.mcutah.com/5861",
+          "City": "Vernal",
+          "Store Number": 5861,
+          "Store": "1050 W Hwy 40, Vernal, UT (Store #5861)",
+          "mcflurry-mixed": 0,
+          "mcflurry-notmixed": 0,
+          "Full Address": "1050 W Hwy 40, Vernal, UT, 84079",
+          "Mix Percentage": {
+            "specialValue": "NaN"
+          },
+          "Mix Decimal": {
+            "specialValue": "NaN"
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -109.546505,
+            40.453951
+          ]
+        }
+      }
+    ]
+  }
+}
