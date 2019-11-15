@@ -3,7 +3,6 @@
     "features": [
       {
         "type": "Feature",
-        "id": "rec00I3PmQo8v3tqF",
         "properties": {
           "lat": 39.935958,
           "lon": -91.394709,
@@ -39,7 +38,6 @@
       },
       {
         "type": "Feature",
-        "id": "rec00JyvlvkljYmfj",
         "properties": {
           "lat": 40.634363,
           "lon": -80.317707,
@@ -75,7 +73,6 @@
       },
       {
         "type": "Feature",
-        "id": "rec00YLbGhpdOT1zK",
         "properties": {
           "lat": 32.94451,
           "lon": -103.349298,
@@ -112,7 +109,6 @@
       },
       {
         "type": "Feature",
-        "id": "rec00Yafz6JKuUuRw",
         "properties": {
           "lat": 30.260309,
           "lon": -97.758118,
@@ -148,7 +144,6 @@
       },
       {
         "type": "Feature",
-        "id": "rec00g0JcX0sjnnC3",
         "properties": {
           "lat": 40.102193,
           "lon": -75.029522,
@@ -185,7 +180,6 @@
       },
       {
         "type": "Feature",
-        "id": "rec00kM1zTXX3cPQB",
         "properties": {
           "lat": 33.74548,
           "lon": -118.105118,
@@ -221,7 +215,6 @@
       },
       {
         "type": "Feature",
-        "id": "reczzlzsgOXea46bB",
         "properties": {
           "lat": 40.453951,
           "lon": -109.546505,
