@@ -1,4 +1,4 @@
-{
+{  "StoreList": {
     "type": "FeatureCollection",
     "features": [
       {
@@ -251,3 +251,4 @@
       }
     ]
   }
+}
